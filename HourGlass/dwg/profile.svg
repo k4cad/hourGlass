@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" xml:space="preserve" >
+<defs >
+<clipPath id="clipId0" >
+<path d="M0,768 1024,768 1024,0 0,0 z" />
+</clipPath>
+</defs>
+<g stroke-width="0.3" clip-path="url(#clipId0)" fill="none" stroke="rgb(0,0,0)" />
+<g stroke-width="0.75" clip-path="url(#clipId0)" fill="none" stroke="rgb(0,0,0)" >
+<polyline points="511.815,384.968 544.51,384.968 544.51,384.968 557.755,382.165 568.729,374.237 575.551,362.543 577.05,349.088 572.971,336.179 511.815,228.029 " />
+<polyline points="511.815,391.507 544.51,391.507 544.51,391.507 557.874,389.161 569.64,382.403 578.4,372.042 583.108,359.316 583.199,345.748 578.663,332.96 517.507,224.811 " />
+</g>
+</svg>

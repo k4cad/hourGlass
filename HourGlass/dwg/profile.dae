@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Open Design Alliance</author>
+    </contributor>
+    <created>2024-01-31T05:35:55</created>
+    <modified>2024-01-31T05:35:55</modified>
+    <unit name="millimeter" meter="0.001"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_lights/>
+  <library_effects/>
+  <library_materials/>
+  <library_geometries/>
+  <library_visual_scenes>
+    <visual_scene id="VisualSceneNode" name="VisualScene"/>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#VisualSceneNode"/>
+  </scene>
+</COLLADA>
